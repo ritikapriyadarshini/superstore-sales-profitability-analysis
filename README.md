@@ -253,11 +253,11 @@ Superstore-Profitability-Analysis/
 - Data Cleaning
 - Data Validation
 - Exploratory Data Analysis (EDA)
-- SQL Queries
-- Aggregate Functions
+- SQL
+- SQL Aggregations
 - Business Problem Solving
 - Root Cause Analysis
-- Dashboard Design
+- Dashboard Development
 - Data Visualization
 - DAX Measures
 - Business Storytelling
