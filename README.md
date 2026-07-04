@@ -284,4 +284,4 @@ It showcases the ability to translate raw business data into meaningful insights
 
 Aspiring Data Analyst passionate about transforming raw data into actionable business insights using **Excel, SQL, Power BI, and Python**.
 
-📧 Connect with me on LinkedIn: *(Add your LinkedIn profile URL here)*
+📧 Connect with me on LinkedIn: *(https://www.linkedin.com/in/ritika-priyadarshini-499942290/)*
